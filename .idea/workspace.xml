@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca9df875-d81d-4f2a-8e64-0c270f28fdee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basics/Decisions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/LoanBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/OddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/UserDefinedMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Essential_Lynda/basics/methods/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Essential_Lynda/basics/methods/Methods.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/basics/methods/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/methods/Methods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +49,9 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Decisions">
+  <component name="RunManager" selected="Application.UserDefinedMethods">
     <configuration name="Decisions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basics.Decisions" />
       <module name="Java_Essential_Lynda" />
@@ -60,8 +65,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NameAndAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.NameAndAge" />
+    <configuration name="LoanBalance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics.LoanBalance" />
+      <module name="Java_Essential_Lynda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics.Loops" />
+      <module name="Java_Essential_Lynda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics.OddNumbers" />
+      <module name="Java_Essential_Lynda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDefinedMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics.UserDefinedMethods" />
       <module name="Java_Essential_Lynda" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UserDefinedMethods" />
+        <item itemvalue="Application.OddNumbers" />
+        <item itemvalue="Application.LoanBalance" />
+        <item itemvalue="Application.Loops" />
         <item itemvalue="Application.Decisions" />
-        <item itemvalue="Application.NameAndAge" />
       </list>
     </recent_temporary>
   </component>
@@ -88,7 +135,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648118729423</updated>
-      <workItem from="1648118733803" duration="1432000" />
+      <workItem from="1648118733803" duration="5304000" />
     </task>
     <servers />
   </component>
