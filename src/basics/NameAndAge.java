@@ -1,5 +1,7 @@
 package basics;
 
+import basics.methods.Methods;
+
 import java.util.Scanner;
 
 public class NameAndAge {
@@ -12,7 +14,8 @@ public class NameAndAge {
         System.out.println("Please enter your age: ");
         int age = scanner.nextInt();
 
-        System.out.println("Hello" + " " + name + ", " + "nice to meet you." + " " + "You are" + " " + age + " years old!");
+        Methods methods = new Methods();
+        methods.introduction(name,age);
 
 
     }
